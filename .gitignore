@@ -1,0 +1,21 @@
+# Excluded media and demonstration project (keep local copies)
+/GodotProjects/BBDemos/
+Photos/
+SoundFiles/
+Videos/
+
+# Godot-generated caches and editor state
+.godot/
+.import/
+.export/
+export.cfg
+export_credentials.cfg
+
+# OS and editor files
+.DS_Store
+._*
+.Trashes/
+*~
+*.swp
+__pycache__/
+*.py[cod]
